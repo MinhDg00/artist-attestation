@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agile-scheme-345202",
+  "private_key_id": "362629af24a2e9a0a56b47445b3976ea693dfb53",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcLJQwMaBbLdb9\nqgu1lOltiDNE26TzYyNhZ+NyTkTZj7ZlIUcV1XcXOz7huYbmFk3PygBoYnnLis5j\nslPueCA/IqCU8LET53tgehea5bchYAIymuICHOEOdYbvw8k9J9fYxHTfvnmn2jg/\nX1SLhvhVwr10HK/AccIqKtt+svpbioZ5ddoMNYRsFnwC77kA2AXr/o8boLmu/X2H\nzJPW6ljoyMMEkagtzwUC/U7MHnx3Vpk7r3szog+1njaZciak0Lwc9KVg9LZNfkYv\n82RPrdNZ51DwrcPCwO+nGAXbN5QdV96o8hyazjc+7RRjaJVdrOuR9PjadogHyd1t\nKbh6k8PxAgMBAAECggEAKsmt6gxWrlR/UC1cGupLEAbeYRG6fjJduaywbJtUErVk\nmA2Hf8xl3fgN8OMXOgfHVtQ1y2ObkfAcPsVXaIEB+LpAe738DgOAUnzw5a/lPiAj\nSgEURdbqtD7v8tXV10sIwKuGh9yUUTAg8//m1nlqpXh+1oabgmLIeywVyf84R4bd\nLgK5w6XES54NX8iopVB3H+7xY7k/iEfy7FrAAj3TWoIqK9D6r/oLg1hbwaQjtK+5\nAW3Y1yrFqelRFi5ziXpljYn0anDT3vtHQtxCQOm/Yb4QM8/46mvLo8E5B2Kj6K4o\nHVCEgkEruKXiGufJDaoN8wYYMa3zNYvGQP5QrDjaPwKBgQDUqtrM5Br/GeOWi/Xq\nTYeLDxKsF3CtfausddKz9I3puTANUZurX3gXBXw267Zd/pbfAcAppCnC6mClRu8B\nE2hfhMT2Awwr+xdo15rLU0bM89lROwPexwxcIP9lG+6pb8vGlLOAaPmr3SUDb0PJ\nByuXbO5qh+hp1CEmHZj8YU6EpwKBgQC7/uzzEw1P4sAWk7Jvfx+SD7LNafZxnN0s\nZGG8K1yW/O6uA7oxD23BiXqTfvj/nSY264ODlvXq9rKSVamjiKPoVwliCv2WR4y8\nc331KkhwQrCXgrvFJAPutsB0p4le24Mr+6CN6XMb+DQVlyL+xkDyjRcbE1Bn9n6m\n+Zz8l4NNpwKBgBJAy+DUH0EP/sm4H5ZJqz2TQJ4GsQQjCi4WOsx5TAjofShXfc36\ntrr7HIs2NgPhSx++7bhlP7RcG4l0CiWEfevc4G7hGhVYSs0T3FRhRG1o7JkdQJrJ\naNUre+A4woZGcy4LK1D1MaC/rWKbFS1W8TXhAqGgIqGatHGqDqxyyaN3AoGAF2+e\nRmc3n5/a5nWfJvsoCmNenPD6wgsWH3ScIoMdVc1OS+83BOqxehETcNPBYsxKeUo+\n6Oam3ZXHiSqYrURZeptvFgPcvSFKUCvtpeSRhz0pGpo3okntG5M4xtIj8+lVnuQN\njeNucCwvAgoHWM+KRTKFkOCFg5BdFZ/EjFCvE70CgYBVunKyo5Rsap+68oJvcYY9\nmgt0sAEmGiFbNjeLpNjoLV6lRqU+/eDx4aMalx+CvKIX4imYr4qN7z+ow5iO7MEo\nna361uKPEMSEmmf/kGol23LO0UPvAv1JlL2/vPPj2o630xnTYGArYkpG/RAe9YNM\nXv+w2ifmu9aPy0GhswGWzQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cs6384-service-account@agile-scheme-345202.iam.gserviceaccount.com",
+  "client_id": "112356245044803415615",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cs6384-service-account%40agile-scheme-345202.iam.gserviceaccount.com"
+}
