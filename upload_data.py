@@ -26,7 +26,7 @@ def upload_data(bucket_name: str, source_dir: str, destination_dir: str):
 
     print(f"UPLOAD STARTED .... \n")
 
-    for source_file_name in glob.glob(source_dir + "/*.jpg"):
+    for source_file_name in glob.glob(source_dir + "/*"):
 
         destination_blob_name = destination_dir + "/" + source_file_name.split("/")[-1]
         blob = bucket.blob(destination_blob_name)
@@ -36,6 +36,8 @@ def upload_data(bucket_name: str, source_dir: str, destination_dir: str):
 
     print(f"UPLOAD SUCCESSFUL!")
 
+# upload_data("cs6384-bucket", "sample_result", "sample_result")
+# upload_data("cs6384-bucket", "info", "info")
 # upload_data("cs6384-bucket", "train", "train")
-upload_data("cs6384-bucket", "test", "test")
+# upload_data("cs6384-bucket", "test", "test")
 
