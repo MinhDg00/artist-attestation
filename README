@@ -1,0 +1,17 @@
+FILE DESCRIPTION:
+
+
+Folder: 
+    - models: all models with cached states
+    - output: text file contains training metrics (loss, acc and top 3 - accuracy) and testing metrics (acc, top3 - accuracy, p , r-score, y-pred, y-true) 
+    - plot: self-explanatory
+    
+Scripts + Notebooks:
+    - main.ipynb: Jupyter notebook
+    - cmodels.py: module contains all 3 models used to trained
+    - train.py: script to train any type of given models 
+    - evals.py: module contains functions to run test and evaluate the predicted results
+    - processor.py: create an custom Torch Dataset 
+    - helper_func.py: include utility function to write, save and remove corrupted files 
+    - upload.py: script to bulk upload files to GCP Cloud Storage
+    
